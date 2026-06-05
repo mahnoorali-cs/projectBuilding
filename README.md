@@ -1,2 +1,8 @@
-# projectBuilding
-Starting to create projects directly on github instead of creating first in pc and then pushing code to github. 
+##Binary Classification using CNN
+* Dog vs NonDog
+* Human vs NonHumman
+* Chair vs NonChair
+* Car vs NonCar
+* Bike vs Non Bike
+
+Author: Mahnoor Ali
