@@ -1,4 +1,5 @@
-##Binary Classification using CNN
+Binary Classification using CNN
+
 * Dog vs NonDog
 * Human vs NonHumman
 * Chair vs NonChair
